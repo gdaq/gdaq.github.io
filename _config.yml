@@ -7,8 +7,8 @@ description: "Blog"
 # Your name. Will show in your footer + sidebar 
 author: "Daniel Aguirre"
 
-url: "http://gdaq.github.io"
-baseurl: "/"
+url: "http://gdaq.github.com"
+baseurl: "/gdaq.github.io"
 
 # A short presentation of yourself. Will show in the sidebar, under your name. Best usage would be between 30 to 50 words. 
 author-bio: "Hello I’m G. Daniel Aguirre, and I’m an telecom engineer, tech lover, and traveler.
