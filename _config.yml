@@ -1,17 +1,17 @@
 # Title of your blog; shows in the header
-name: "Daniel Aguirre"
+name: "GDAQ"
 
 # Description of your content (will only be used on Google Search)
-description: "Blog"
+description: "Gerardo Daniel Aguirre - Blog"
 
 # Your name. Will show in your footer + sidebar 
-author: "Daniel Aguirre"
+author: "G. Daniel Aguirre"
 
 #url: ""
 baseurl: "http://gdaq.github.io/"
 
 # A short presentation of yourself. Will show in the sidebar, under your name. Best usage would be between 30 to 50 words. 
-author-bio: "Hello I’m G. Daniel Aguirre, and I’m an telecom engineer, tech lover, and traveler.
+author-bio: "I’m an telecom engineer, music lover and coffee addict.
 
 I’m currently living in Asia, learning from the most dynamic markets in the industry."
 
