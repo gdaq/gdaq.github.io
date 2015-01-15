@@ -2,10 +2,10 @@
 name: "GDAQ"
 
 # Description of your content (will only be used on Google Search)
-description: "Daniel Aguirre - Blog"
+description: "Blog - Gerardo Daniel Aguirre Quiroz"
 
 # Your name. Will show in your footer + sidebar 
-author: "Daniel Aguirre"
+author: "GDAQ"
 
 #url: ""
 baseurl: "http://gdaq.github.io/"
