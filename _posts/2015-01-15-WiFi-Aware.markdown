@@ -1,5 +1,8 @@
-WiFi Aware
-============
+---
+layout: post
+title:  "WiFi Aware"
+date:   2015-01-15 11:42
+---
 
 CES was not a complete failure after all. 
 
