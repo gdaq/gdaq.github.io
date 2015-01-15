@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "WiFi Aware"
+title:  "Wi-Fi Aware"
 date:   2015-01-15 11:42
 ---
 
