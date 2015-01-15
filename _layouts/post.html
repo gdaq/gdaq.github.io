@@ -16,7 +16,9 @@ layout: default
       {{ content }}
     </div>
     <div class="feat share">
-      <a href="http://twitter.com/share" class="popup" data-via="hgrd">
+      <!-- <a href="http://twitter.com/share" class="popup" data-via="hgrd"> -->
+      <a href="https://twitter.com/intent/tweet?url={{ site.url }}{{ page.url }}&text={{ page.title }}&via=hgrd" 
+   target="_blank">
         <span class="icon-twitter"></span>
       </a>
     </div>
