@@ -8,10 +8,10 @@ description: "Daniel Aguirre - Blog"
 author: "Daniel Aguirre"
 
 #url: ""
-baseurl: "http://gdaq.github.io"
+baseurl: "http://gdaq.github.io/"
 
 # A short presentation of yourself. Will show in the sidebar, under your name. Best usage would be between 30 to 50 words. 
-author-bio: "I’m a telecom engineer, music lover and a coffee aficionado. :+1: "
+author-bio: "I’m a telecom engineer, music lover and a coffee aficionado."
 
 # Social Accounts (mine, as placeholders)
 
@@ -41,4 +41,5 @@ sass:
   
 # Ruby GEMs
 
-gems: jemoji
+gems: 
+  - jemoji
