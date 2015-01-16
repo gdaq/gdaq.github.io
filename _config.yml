@@ -4,13 +4,13 @@ name: "GDAQ"
 # Description of your content (will only be used on Google Search)
 description: "Blog - Gerardo Daniel Aguirre Quiroz"
 
-# Your name. Will show in your footer + sidebar 
+# Your name. Will show in your footer + sidebar
 author: "GDAQ"
 
-#url: ""
-baseurl: "http://gdaq.github.io/"
+url: "http://gdaq.me"
+baseurl: "/"
 
-# A short presentation of yourself. Will show in the sidebar, under your name. Best usage would be between 30 to 50 words. 
+# A short presentation of yourself. Will show in the sidebar, under your name. Best usage would be between 30 to 50 words.
 author-bio: "I like tech, music and coffee."
 
 # Social Accounts (mine, as placeholders)
@@ -21,8 +21,8 @@ instagram: hgrd
 
 # Google Analytics (you may want to changes these with yours or even delete :)
 
-ga_domain: 
-ga_tracking_id: 
+ga_domain:
+ga_tracking_id:
 
 # Other (refer to http://jekyllrb.com/docs/home/ for further details on the below)
 
@@ -30,7 +30,7 @@ markdown: kramdown
 permalink: pretty
 highlighter: pygments
 
-paginate: 10
+paginate: 11
 paginate_path: "/page/:num"
 
 # SCSS
@@ -38,8 +38,8 @@ paginate_path: "/page/:num"
 sass:
   sass_dir: _scss
   style: :compressed
-  
+
 # Ruby GEMs
 
-gems: 
+gems:
   - jemoji
