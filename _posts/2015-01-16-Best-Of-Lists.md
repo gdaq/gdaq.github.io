@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Best of lists"
+title:  "'Best of' lists"
 date:   2015-01-16 19:50  
 ---
 
