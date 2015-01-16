@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "'Best of' lists"
+title:  "Best of lists"
 date:   2015-01-16 19:50  
 ---
 
@@ -19,7 +19,5 @@ I am very lucky to have a (very good) designer  as a girlfriend. We spend many w
 > With many *best of* lists around, the design of my list becomes very important; it's what makes it unique.
 
 So if you haven't checked it out, [now](http://mu-sique.com/post/105878182251/mejoresdiscos2014) it's a perfect time to catch up with last year's best music.
-
-{spotify spotify:user:mu-sique:playlist:1bXghOPoc8lHjuAbOZGtpo}
 
 [^fn1]: I've only watched a couple movies from the 'Best Picture' category. I think Wes Anderson's "The Grand Budapest Hotel" is fantastic, and Iñarritu's "Birdman" has a lot of merit for being risky.
