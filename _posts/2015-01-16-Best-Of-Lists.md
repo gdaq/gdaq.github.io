@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "_Best of_ lists"
-date:   1/16/2015 3:55:42 PM  
+title:  "Best of lists"
+date:   2015-01-16 19:50  
 ---
 
 Today the Academy Award nominations were [announced](http://oscar.go.com/nominees "Oscar Nominations"). After going through the list of nominees I knew I had a lot of catching up to do [^fn1]. Because that's what the lists are for, right?
