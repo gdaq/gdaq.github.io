@@ -12,7 +12,7 @@ No matter how specific or broad a topic is, there will be a *best of list* of it
 
 Every year I put a lot of time creating something special. A one-of-a-kind list. I think not only about the records that make the list itself, but also about the design behind the list.
 
-![μ sique: Best of 2014]({{ site.url }}/assets/img/bestof2014.jpg)
+![μ sique: Best of 2014]({{ site.baseurl }}/assets/img/bestof2014.jpg)
 
 I am very lucky to have a (very good) designer  as a girlfriend. We spend many weeks deciding what's the best design for the list. We would start with a main  design theme, and then develop different cases and variations considering the records' artworks.
 
