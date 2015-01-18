@@ -21,6 +21,29 @@ header {
     }
   } // end h1.title
 
+.navigation {
+  border-bottom: 1px solid #eaebf2;
+  padding-bottom: 5px;
+}
+
+.navigation ul {
+  list-style: none;
+}
+
+.navigation ul li {
+  display: inline-block;
+}
+
+.navigation ul li a {
+  padding: 0 10px;
+  color: #8c8fa0;
+  text-decoration: none;
+}
+
+.navigation ul li a:hover {
+  color: #65bbe2;
+}
+
   .close {
     .lines {
       -webkit-transition: background .3s 0s ease;

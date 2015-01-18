@@ -10,11 +10,6 @@ window.onload = function() {
         toggleClass($siteWrap, 'open');
     }, false);
 
-	var currentPage = $("body").data("current-page");
-	if (currentPage) {
-		$("a[data-page-id='" + currentPage + "']").addClass("current");
-	}
-	
     $menuIcon.addEventListener('mouseenter', function() {
         addClass($menuIcon, 'hover');
     });
