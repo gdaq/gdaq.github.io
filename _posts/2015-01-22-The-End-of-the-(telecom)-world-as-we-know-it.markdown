@@ -12,16 +12,7 @@ I would like to focus on Google's moves into the telecommunications industry. I 
 
 Let's start with the easy one, Android. According to [IDC](http://www.idc.com/prodserv/smartphone-os-market-share.jsp "IDC report"), Google's Android Operating System, dominates the worldwide smartphone market with over 80% of the market share.
 
-|    Period   |   Android   |    iOS    |   Windows Phone   |   BlackBerry   |   Others   |
-|:---------|:---------|:-----:|:-------------:|---------------:|--------:|
-|  Q3 2014   |    84.4%    |   11.7%   |        2.9%       |        0.5%       |    0.6%    |
-|  Q3 2013   |    81,2%    |   12.8%   |        3.6%       |        1.7%       |    0.6%    |
-|  Q3 2012   |    74.9%    |   14.4%   |        2.0%       |        4.1%       |    4.5%    |
-|   Q3 2011  |    57.4%    |   13.8%   |        1.2%       |        9.6%       |    18.0%   |
-
-
 But Android is just the tip of the iceberg. 
-
 
 Google Fiber [^fn2], is not only "a fiber-to-the-premises service that provides broadband internet and television to its subscribers" but the first step from the company into new grounds: the ISP grounds. 
 
