@@ -20,17 +20,19 @@ Google Fiber [^fn2], is not only "a fiber-to-the-premises service that provides 
 
 Today, the Wall Street Journal [reported](http://www.wsj.com/articles/google-to-sell-wireless-service-in-deals-with-sprint-t-mobile-1421887967?mod=WSJ_hp_LEFTTopStories "WSJ Article") that Google had signed a deal with Sprint and T-Mobile to become a nation-wide Mobile Virtual Network Operator (MVNO).
 
-We are living the beginning of the Over-the-Top (OTT) era. Services like WhatsApp, Skype, Facebook, Twitter, YouTube, Spotify, Netflix, etc. have become a big part of our lives.
+We are living the beginning of the Over-the-Top (OTT) era. Services offered by companies like WhatsApp, Skype, Facebook, Twitter, YouTube, Spotify, Netflix, etc. have become a big part of our lives. On the other hand, mobile network operators (MNOs) are struggling to remain relevant and are afraid of becoming dumb pipes. 
 
-Mobile network operators (MNOs) are struggling to remain relevant and are afraid of becoming *dumb pipes*.
+However, the concept behind MVNOs relates perfectly to the concept of OTTs and dumb pipes, but to an even greater extent. Google will be using Sprint’s and T-Mobile’s networks to offer their own service, just as any OTT uses the MNO’s network to offer theirs. 
 
-But, the fact that Google is now becoming a MVNO, is following the exact same concept of using a MNO as a dumb pipe, but to an even greater extent. Google will be using Sprint's and T-Mobile's networks to offer their own service, just as any OTT uses the MNO's network to offer theirs. 
+>By becoming a MVNO, Google will also become the first enhanced OTT player (eOTT) in the world.
 
->By becoming a MVNO, Google has also become the first *enhanced* OTT player (eOTT) in the world.
+eOTTs have to be considered as something different from OTTs. Firstly because they are not only OTTs, but a hybrid players that have control over their network.
 
-Does this mean that MNOs have lost the fight against OTTs/eOTTs? 
+Google will be able to leverage the pros of controlling both the service and the content, without caring about the big problem OTTs face: Net Neutrality (or lack of it).
 
-Well, I think it is too soon to know that, but it might as well be the beginning to an end for the MNO's attempts to stay relevant.
+Does this mean that MNOs have lost the fight against OTTs/eOTTs?
+
+Not yet. I think it is too soon to know that, but it might as well be the beginning to an end for the MNO’s attempts to stay relevant.
 
 Why?
 
