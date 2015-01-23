@@ -8,7 +8,7 @@ With all the security leaks, and hacks that have been happening recently, having
 
 > "The process of encoding messages or information in such a way that only authorized parties can read it". 
 
-However is not always clear who these authorized parties are, specially in mobile communications, where there are many players involved.
+However it's not always clear who these authorized parties are, specially in mobile communications, where there are many players involved.
 
 Encryption adds a security layer to the communications that makes both the users, and the content providers feel safe(r) when sending/receiving messages. Content providers are starting to implement security protocols such as SPDY to face this problem.
 
