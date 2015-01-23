@@ -29,6 +29,6 @@ Keith Dyer, from The Mobile Network, did an excellent job on his [piece](http://
 
 >"There’s a tug of war right now between operators and OTT encryption. Google’s SPDY protocol is an IETF standard that is meant to provide a better service between endpoints – but it doesn’t consider the network. In the mobile network you have different needs and you need to be able optimise because of resources you have. We are working with a number of technologies to be able to keep doing that so even if the payload is encrypted the knowledge about what kind of traffic it is will be open."
 
-Internet has become the core of mobile communications. However, it seems like it's not the same the other way around. More than ever, the Internet Engineering Task Force must work closer with the 3GPP, in order to find common measures and protocols that aim to fight today's security and capacity problems.
+Internet has become the core of mobile communications. However, it seems like it’s not the same the other way around.
 
-Ultimately, the users don't care about this kind of problems, and I think they shouldn't care. Users expect to receive the best service from both the OTT and the MNO. So that's why standard organizations, and the industry should work together to deliver what is expected. That's their job. 
+More than ever, the Internet Engineering Task Force must work closer together with the 3GPP, in order to find common measures and protocols that aim to fight today’s security and capacity problems.
