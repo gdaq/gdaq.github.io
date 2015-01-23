@@ -19,7 +19,7 @@ Given their limited resources, MNOs analyze the traffic and follow some QoS and 
 ![Blindness](https://gooddeedaday.files.wordpress.com/2010/02/yossi-blind-cartoon.jpg)
 
 
-But right now, encryption is blinding the MNOs. With encrypted traffic, MNOs cannot know what kind of packages are flowing through their network, and thus cannot optimize them, making the user experience more likely to decay. In the current encryption implementations, MNOs are not seen as an authorized party.
+But right now, encryption is blinding the MNOs. MNOs are not able to know what kind of packages are flowing through their network, and thus cannot optimize them. When traffic is encrypted, the (blind) operator is not able to properly perform the tasks that guarantee a better experience for the user. With the current encryption implementations, MNOs are not seen as an authorized party.
 
 Keith Dyer, from The Mobile Network, did an excellent job on his [piece](http://the-mobile-network.com/2015/01/how-encryption-threatens-mobile-operators-and-what-they-can-do-about-it/ "Keith Dyer Article") of how encryption is affecting the mobile network operators. He got really good inputs from the people he interviewed, like this one from the CTO of a major vendor:
 
