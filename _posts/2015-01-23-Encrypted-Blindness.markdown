@@ -31,4 +31,4 @@ Keith Dyer, from The Mobile Network, did an excellent job on his [piece](http://
 
 Internet has become the core of mobile communications. However, it seems like it’s not the same the other way around.
 
-More than ever, the Internet Engineering Task Force must work closer together with the 3GPP, in order to find common measures and protocols that aim to fight today’s security and capacity problems.
+More than ever, the Internet Engineering Task Force and the 3GPP must work closer together, in order to find common measures and protocols that aim to fight today’s security and capacity problems.
