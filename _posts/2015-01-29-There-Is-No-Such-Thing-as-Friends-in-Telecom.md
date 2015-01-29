@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "There is no such thing as friends in telecom"
+title:  "There are no such thing as friends in telecom"
 date:   2015-01-29 23:11  
 ---
 
