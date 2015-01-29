@@ -20,6 +20,8 @@ Then, this week after the deal for Iusacell was approved by the Mexican Regulato
 
 So let´s take a look into the battlefield, the Mexican market:
 
+##Mexican Telecom Market##
+
 ![Market Share](http://i.imgur.com/5Xme7xN.png)
 
 It is very hard to compete with Telcel´s market share, however AT&T will have a total of 11.15 per cent, close behind to Movistar.
@@ -40,7 +42,7 @@ So far nothing is clear. There are still many things to happen in the Mexican ma
 
 No one knows what will happen next. But we can be certain of two things:
 
-> The Mexican telecom market is more alive than ever. 
+1. The Mexican telecom market is more alive than ever. 
 
-> There is no such thing as friendship in the telecom business.
+2. There is no such thing as friendship in the telecom business.
 
