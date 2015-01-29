@@ -16,11 +16,9 @@ But buying DirecTV was not all, AT&T wanted to build the first-ever *North Ameri
 
 Then, this week after the deal for Iusacell was approved by the Mexican Regulator, AT&T announced its second move: buying Nextel Mexico for $1.88 billion. 
 
- >This was a declaration of war.
+This was a declaration of **war**.
 
 So let´s take a look into the battlefield, the Mexican market:
-
-##Mexican Telecom Market##
 
 ![Market Share](http://i.imgur.com/5Xme7xN.png)
 
