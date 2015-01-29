@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "There is no such thing as friends in telecom"
-date:   2015-01-29 15:51  
+date:   2015-01-29 23:11  
 ---
 
 The complicated relationship between AT&T and Carlos Slim´s América Móvil dates back to the 90s, when Carlos Slim, France Telecom and AT&T predecessor Southwestern Bell Corporation (SBC) bought Telmex from the Mexican government.
@@ -16,19 +16,19 @@ But buying DirecTV was not all, AT&T wanted to build the first-ever *North Ameri
 
 Then, this week after the deal for Iusacell was approved by the Mexican Regulator, AT&T announced its second move: buying Nextel Mexico for $1.88 billion. 
 
- This was a declaration of war.
+ >This was a declaration of war.
 
 So let´s take a look into the battlefield, the Mexican market:
 
-![Market Share][GSMA](http://i.imgur.com/5Xme7xN.png)
+![Market Share](http://i.imgur.com/5Xme7xN.png)
 
 It is very hard to compete with Telcel´s market share, however AT&T will have a total of 11.15 per cent, close behind to Movistar.
 
-![Revenue][GSMA](http://i.imgur.com/Ien5XDZ.png)
+![Revenue](http://i.imgur.com/Ien5XDZ.png)
 
 Due to Movistar´s low ARPU, AT&T would be second place in terms of total revenue. If we add Nextel's and Iusacell's revenues we get a total of $768,478,528, which is 1.5x the total revenue of Movistar.
 
-![Allocated Spectrum][Ovum](http://i.imgur.com/30nj0GH.png)
+![Allocated Spectrum](http://i.imgur.com/30nj0GH.png)
 
 Now *this* is the key factor that can change things positively for AT&T. Spectrum, or the telecom (fool´s) gold is AT&T´s best weapon for this fight. With the spectrum from Iusacell and Nextel, AT&T becomes the first place in spectrum holding. 
 
@@ -40,8 +40,8 @@ So far nothing is clear. There are still many things to happen in the Mexican ma
 
 No one knows what will happen next. But we can be certain of two things:
 
-1. The Mexican telecom market is more alive than ever. 
-2. There is no such thing as friendship in the telecom business.
+> 1. The Mexican telecom market is more alive than ever. 
+> 2. There is no such thing as friendship in the telecom business.
 
 [GSMA]: http://gsma.com  "GSMA"
 [OVUM]: http://ovum.com  "OVUM"
