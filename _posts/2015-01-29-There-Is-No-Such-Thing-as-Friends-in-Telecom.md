@@ -40,8 +40,7 @@ So far nothing is clear. There are still many things to happen in the Mexican ma
 
 No one knows what will happen next. But we can be certain of two things:
 
-> 1. The Mexican telecom market is more alive than ever. 
-> 2. There is no such thing as friendship in the telecom business.
+> The Mexican telecom market is more alive than ever. 
 
-[GSMA]: http://gsma.com  "GSMA"
-[OVUM]: http://ovum.com  "OVUM"
+> There is no such thing as friendship in the telecom business.
+
