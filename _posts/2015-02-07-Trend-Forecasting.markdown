@@ -26,7 +26,7 @@ In fact, according to the VNI, VoWiFi will **surpass VoLTE** in terms of minutes
 
 ![Mobile Voice Minutes of Use—VoWi-Fi, VoLTE, and VoIP](http://cl.ly/image/2w2y022V1x3o/download/Screen%20Shot%202015-02-07%20at%201.54.14%20am.png)
 
->This data not only shows the big impact VoWiFi will have in the future, but also the how **WiFi** networks are becoming a crucial element of mobile cellular networks. By deploying a WiFi network, MNOs will not only be able to **offload** data traffic,  but also, thanks to VoWiFi, operators will be able to deliver a cost-effective, scalable, and high quality **indoor** coverage, where cellular coverage is poor. 
+This data not only shows the big impact VoWiFi will have in the future, but also the how **WiFi** networks are becoming a crucial element of mobile cellular networks. By deploying a WiFi network, MNOs will not only be able to **offload** data traffic,  but also, thanks to VoWiFi, operators will be able to deliver a cost-effective, scalable, and high quality **indoor** coverage, where cellular coverage is poor. 
 
 So all those operators who have been opposed to WiFi in the past, should better catch up!
  
