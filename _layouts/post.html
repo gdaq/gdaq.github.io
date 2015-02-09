@@ -2,6 +2,51 @@
 layout: default
 ---
 
+  <head>
+      <meta charset="utf-8">
+      <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+      <meta http-equiv="content-language" content="en-gb" />
+      <meta name="description" content="Hello, I'm Daniel Aguirre: a telecom engineer, music blogger, and runner. This is my blog.">
+      <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+      <!-- FB Meta-->
+
+      <meta property="og:type" content="blog">
+      <meta property="og:url" content="{{ site.url }}{{ page.url }}">
+      <meta property="fb:admins" content="506833442">
+
+      <!-- Twitter Meta-->
+
+<meta name="twitter:card" content="summary">
+<meta name="twitter:site" content="@hgrd">
+<meta name="twitter:creator" content="@hgrd">
+{% if page.title %}
+  <meta name="twitter:title" content="{{ page.title }}">
+  <meta property="og:title" content="{{ page.title }}">
+{% else %}
+  <meta name="twitter:title" content="{{ site.title }}">
+  <meta property="og:title" content="{{ site.title }}">
+{% endif %}
+{% if page.url %}
+  <meta name="twitter:url" content="{{ site.url }}{{ page.url }}">
+  <meta property="og:title" content="{{ site.url }}{{ page.url }}">
+{% endif %}
+{% if page.description %}
+  <meta name="twitter:description" content="{{ page.description | truncatewords: 200 | strip_newlines | escape_once }}}">
+  <meta property="og:description" content="{{ page.description | truncatewords: 200 | strip_newlines | escape_once }}">
+{% else %}
+  <meta name="twitter:description" content="Hello, I'm Daniel Aguirre: a telecom engineer, music blogger, and runner. This is my blog.">
+  <meta property="og:description" content="Hello, I'm Daniel Aguirre: a telecom engineer, music blogger, and runner. This is my blog.">
+{% endif %}
+{% if page.image %}
+  <meta name="twitter:image:src" content="http://gdaq.github.io/assets/img/logo.jpg">
+  <meta property="og:image" content="http://i.imgur.com/38uskcA.jpg">
+{% else %}
+  <meta name="twitter:image:src" content="http://gdaq.github.io/assets/img/logo.jpg">
+  <meta property="og:image" content="http://i.imgur.com/38uskcA.jpg">
+{% endif %}
+
+  </head>
+
 <section class="single-wrap">
   <article class="single-content" itemscope itemtype="http://schema.org/BlogPosting">
     <div class="feat">
