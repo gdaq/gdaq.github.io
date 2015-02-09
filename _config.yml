@@ -8,7 +8,7 @@ description: "Blog - Gerardo Daniel Aguirre Quiroz"
 author: "GDAQ"
 
 #url: ""
-baseurl: "http://gdaq.github.io"
+baseurl: "http://gdaq.me"
 
 # A short presentation of yourself. Will show in the sidebar, under your name. Best usage would be between 30 to 50 words.
 author-bio: "I like tech, music and coffee."
