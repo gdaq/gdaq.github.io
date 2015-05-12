@@ -11,4 +11,4 @@ This week Ericsson, in collaboration with EY, [explained](http://www.ericsson.co
 
 ![Growth Codes](http://cl.ly/image/0n3l1i3o3j1z/download/growthcodes.png)
 
-Something that I found very interesting is that according to the study, the frontrunners are not necessarly the market leaders. The fact of being a small/medium-size operator does not mean your are doomed, on the contrary it allows you to be more disruptive, and become a frontrunner by following the "Codes".
+Something that I found very interesting is that according to the study, the frontrunners are not necessarly the market leaders. The fact of being a small/medium-size operator does not mean you are doomed, on the contrary it allows you to be more disruptive, and become a frontrunner by following the "Codes".
