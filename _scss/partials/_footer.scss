@@ -1,6 +1,7 @@
 footer { 
   @extend %padding-large;
   width: 100%;
+  background-color: $smoke-color;
   bottom: 0;
   left: 0;
   text-align: center; 
