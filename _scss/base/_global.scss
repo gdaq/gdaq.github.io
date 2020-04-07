@@ -13,6 +13,20 @@ html {
   height: 100%;
 }
 
+@media (prefers-color-scheme: dark) {
+  body {
+    background-color: black;
+    color: #ccc;
+  }
+    img {
+    opacity: .75;
+    transition: opacity .5s ease-in-out;
+  }
+  img:hover {
+    opacity: 1;
+  }
+}
+
 body {
   font: $font-size-l $font-family;
   color: $text-color;
