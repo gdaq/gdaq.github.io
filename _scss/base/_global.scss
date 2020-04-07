@@ -14,7 +14,8 @@ html {
 }
 
 @media (prefers-color-scheme: dark) {
-  font: $font-size-l $font-family;
+  * {
+    font: $font-size-l $font-family;
   color: white;
   text-rendering: optimizeLegibility;
   -webkit-font-smoothing: antialiased;
@@ -26,6 +27,7 @@ html {
   }
   img:hover {
     opacity: 1;
+  }
   }
 }
 
