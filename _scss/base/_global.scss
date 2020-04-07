@@ -14,19 +14,12 @@ html {
 }
 
 @media (prefers-color-scheme: dark) {
-  body {
   font: $font-size-l $font-family;
   color: white;
   text-rendering: optimizeLegibility;
   -webkit-font-smoothing: antialiased;
   background-color: #333;
-  @media (max-width: 942px) {
-    font-size: $font-size-m; 
-  }
-  @media (max-width: 642px) {
-    font-size: $font-size-s; 
-  }
-}
+  
     img {
     opacity: .75;
     transition: opacity .5s ease-in-out;
